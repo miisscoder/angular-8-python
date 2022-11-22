@@ -1,0 +1,4842 @@
+[
+  {
+    "date": "2006-11-28",
+    "value": 3.76,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2006-11-29",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2006-11-29",
+    "value": 3.71,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2006-11-30",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-01-08",
+    "value": 5.45,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-01-09",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-01-26",
+    "value": 5.25,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-01-29",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-02-02",
+    "value": 4.92,
+    "beGetProfit": true,
+    "timeGetProfit": 7,
+    "dateGetProfit": "2007-02-13",
+    "maxBottom": 0.9268292682926829
+  },
+  {
+    "date": "2007-02-05",
+    "value": 4.8,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-02-06",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-02-06",
+    "value": 4.68,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-02-07",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-03-19",
+    "value": 4.9,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-03-20",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-04-17",
+    "value": 5.4,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-04-18",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-04-18",
+    "value": 5.38,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-04-19",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-04-19",
+    "value": 5.36,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2007-04-23",
+    "maxBottom": 0.9738805970149252
+  },
+  {
+    "date": "2007-05-16",
+    "value": 5.49,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-05-17",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-05-31",
+    "value": 5.22,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-06-01",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-06-05",
+    "value": 4.95,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-06-06",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-06-22",
+    "value": 5.0,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-06-25",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-06-25",
+    "value": 5.0,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2007-06-27",
+    "maxBottom": 0.976
+  },
+  {
+    "date": "2007-06-26",
+    "value": 4.94,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-06-27",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-07-16",
+    "value": 5.33,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-07-17",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-07-17",
+    "value": 5.26,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-07-18",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-07-30",
+    "value": 5.63,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-07-31",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-08-02",
+    "value": 5.5,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-08-03",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-08-17",
+    "value": 6.66,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-08-20",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-08-29",
+    "value": 6.74,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-08-30",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-09-11",
+    "value": 6.6,
+    "beGetProfit": true,
+    "timeGetProfit": 8,
+    "dateGetProfit": "2007-09-21",
+    "maxBottom": 0.946969696969697
+  },
+  {
+    "date": "2007-09-12",
+    "value": 6.39,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-09-13",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-09-26",
+    "value": 6.39,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-09-27",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-09-27",
+    "value": 6.34,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-09-28",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-10-22",
+    "value": 7.58,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-10-23",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-11-06",
+    "value": 8.26,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-11-07",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-11-12",
+    "value": 8.08,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-11-13",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-11-23",
+    "value": 7.7,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-11-26",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-12-11",
+    "value": 8.11,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-12-12",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-12-12",
+    "value": 8.08,
+    "beGetProfit": true,
+    "timeGetProfit": 6,
+    "dateGetProfit": "2007-12-21",
+    "maxBottom": 0.9306930693069306
+  },
+  {
+    "date": "2007-12-14",
+    "value": 7.9,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-12-17",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-12-17",
+    "value": 7.74,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-12-18",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2007-12-18",
+    "value": 7.62,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2007-12-19",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-01-17",
+    "value": 7.89,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-01-18",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-01-23",
+    "value": 6.8,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-01-24",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-01-24",
+    "value": 6.78,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-01-25",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-02-20",
+    "value": 6.69,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-02-21",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-02-21",
+    "value": 6.64,
+    "beGetProfit": true,
+    "timeGetProfit": 44,
+    "dateGetProfit": "2008-04-24",
+    "maxBottom": 0.7981927710843374
+  },
+  {
+    "date": "2008-02-22",
+    "value": 6.55,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2008-02-27",
+    "maxBottom": 0.9465648854961832
+  },
+  {
+    "date": "2008-02-25",
+    "value": 6.35,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-02-26",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-03-04",
+    "value": 6.35,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-03-05",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-03-05",
+    "value": 6.34,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-03-06",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-03-11",
+    "value": 6.09,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-03-12",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-03-12",
+    "value": 6.01,
+    "beGetProfit": true,
+    "timeGetProfit": 12,
+    "dateGetProfit": "2008-03-28",
+    "maxBottom": 0.8818635607321131
+  },
+  {
+    "date": "2008-03-13",
+    "value": 6.01,
+    "beGetProfit": true,
+    "timeGetProfit": 11,
+    "dateGetProfit": "2008-03-28",
+    "maxBottom": 0.8818635607321131
+  },
+  {
+    "date": "2008-03-14",
+    "value": 5.74,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2008-03-20",
+    "maxBottom": 0.9407665505226481
+  },
+  {
+    "date": "2008-03-17",
+    "value": 5.59,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-03-18",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-03-18",
+    "value": 5.52,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-03-19",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-04-15",
+    "value": 5.73,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-04-16",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-05-08",
+    "value": 6.27,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-05-09",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-05-09",
+    "value": 6.14,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-05-12",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-05-12",
+    "value": 6.08,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2008-05-14",
+    "maxBottom": 0.9851973684210527
+  },
+  {
+    "date": "2008-05-13",
+    "value": 5.99,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-05-14",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-05-21",
+    "value": 6.0,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2008-05-23",
+    "maxBottom": 0.9866666666666667
+  },
+  {
+    "date": "2008-05-27",
+    "value": 5.79,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-05-28",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-05-28",
+    "value": 5.79,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-05-29",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-06-11",
+    "value": 5.36,
+    "beGetProfit": true,
+    "timeGetProfit": 250,
+    "dateGetProfit": "2009-06-23",
+    "maxBottom": 0.583955223880597
+  },
+  {
+    "date": "2008-06-12",
+    "value": 5.22,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2008-06-18",
+    "maxBottom": 0.9578544061302683
+  },
+  {
+    "date": "2008-06-30",
+    "value": 4.9,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-07-01",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-07-01",
+    "value": 4.9,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2008-07-07",
+    "maxBottom": 0.9285714285714285
+  },
+  {
+    "date": "2008-07-02",
+    "value": 4.78,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-07-03",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-07-03",
+    "value": 4.69,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-07-04",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-07-16",
+    "value": 4.84,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-07-17",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-08-01",
+    "value": 5.03,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-08-04",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-08-11",
+    "value": 4.96,
+    "beGetProfit": true,
+    "timeGetProfit": 204,
+    "dateGetProfit": "2009-06-18",
+    "maxBottom": 0.6310483870967741
+  },
+  {
+    "date": "2008-08-12",
+    "value": 4.83,
+    "beGetProfit": true,
+    "timeGetProfit": 6,
+    "dateGetProfit": "2008-08-20",
+    "maxBottom": 0.9316770186335404
+  },
+  {
+    "date": "2008-08-13",
+    "value": 4.8,
+    "beGetProfit": true,
+    "timeGetProfit": 5,
+    "dateGetProfit": "2008-08-20",
+    "maxBottom": 0.9375
+  },
+  {
+    "date": "2008-08-14",
+    "value": 4.7,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-08-15",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-08-19",
+    "value": 4.54,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-08-20",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-09-02",
+    "value": 4.71,
+    "beGetProfit": true,
+    "timeGetProfit": 181,
+    "dateGetProfit": "2009-06-09",
+    "maxBottom": 0.6645435244161358
+  },
+  {
+    "date": "2008-09-03",
+    "value": 4.58,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-09-04",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-09-04",
+    "value": 4.58,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2008-09-08",
+    "maxBottom": 0.9781659388646289
+  },
+  {
+    "date": "2008-09-05",
+    "value": 4.56,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-09-08",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-09-11",
+    "value": 4.4,
+    "beGetProfit": true,
+    "timeGetProfit": 7,
+    "dateGetProfit": "2008-09-23",
+    "maxBottom": 0.7113636363636363
+  },
+  {
+    "date": "2008-09-12",
+    "value": 4.28,
+    "beGetProfit": true,
+    "timeGetProfit": 6,
+    "dateGetProfit": "2008-09-23",
+    "maxBottom": 0.7313084112149532
+  },
+  {
+    "date": "2008-09-17",
+    "value": 3.8,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2008-09-22",
+    "maxBottom": 0.8236842105263158
+  },
+  {
+    "date": "2008-09-18",
+    "value": 3.42,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-09-19",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-10-20",
+    "value": 3.95,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-10-21",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-12-01",
+    "value": 3.74,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-12-02",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-12-02",
+    "value": 3.7,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-12-03",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-12-15",
+    "value": 3.76,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-12-16",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-12-16",
+    "value": 3.75,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-12-17",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-12-24",
+    "value": 3.65,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-12-25",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-12-25",
+    "value": 3.61,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2008-12-26",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2008-12-30",
+    "value": 3.59,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2009-01-06",
+    "maxBottom": 0.9832869080779945
+  },
+  {
+    "date": "2008-12-31",
+    "value": 3.56,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-01-05",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-02-13",
+    "value": 3.83,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-02-16",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-02-20",
+    "value": 3.78,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-02-23",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-02-23",
+    "value": 3.76,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-02-24",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-02-24",
+    "value": 3.73,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-02-25",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-02-25",
+    "value": 3.68,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-02-26",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-04-09",
+    "value": 3.96,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-04-10",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-04-24",
+    "value": 4.01,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2009-04-29",
+    "maxBottom": 0.9875311720698254
+  },
+  {
+    "date": "2009-04-27",
+    "value": 4.01,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2009-04-29",
+    "maxBottom": 0.9925187032418953
+  },
+  {
+    "date": "2009-05-22",
+    "value": 4.22,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-05-26",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-07-22",
+    "value": 5.16,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-07-23",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-07-23",
+    "value": 5.16,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-07-24",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-08-06",
+    "value": 5.19,
+    "beGetProfit": true,
+    "timeGetProfit": 50,
+    "dateGetProfit": "2009-10-26",
+    "maxBottom": 0.8593448940269749
+  },
+  {
+    "date": "2009-08-07",
+    "value": 5.08,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-08-10",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-08-10",
+    "value": 5.07,
+    "beGetProfit": true,
+    "timeGetProfit": 23,
+    "dateGetProfit": "2009-09-11",
+    "maxBottom": 0.8796844181459565
+  },
+  {
+    "date": "2009-08-13",
+    "value": 4.88,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-08-14",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-08-18",
+    "value": 4.65,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-08-19",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-08-19",
+    "value": 4.62,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-08-20",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-09-01",
+    "value": 4.46,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-09-03",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-09-24",
+    "value": 4.85,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-09-25",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-09-29",
+    "value": 4.7,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-09-30",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-10-28",
+    "value": 5.07,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2009-11-02",
+    "maxBottom": 0.9684418145956607
+  },
+  {
+    "date": "2009-10-29",
+    "value": 4.99,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-10-30",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-11-23",
+    "value": 5.45,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-11-24",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-11-24",
+    "value": 5.4,
+    "beGetProfit": true,
+    "timeGetProfit": 26,
+    "dateGetProfit": "2009-12-31",
+    "maxBottom": 0.924074074074074
+  },
+  {
+    "date": "2009-11-25",
+    "value": 5.29,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-11-26",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-11-26",
+    "value": 5.19,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2009-12-01",
+    "maxBottom": 0.9826589595375721
+  },
+  {
+    "date": "2009-11-30",
+    "value": 5.15,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-12-01",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-12-10",
+    "value": 5.2,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-12-11",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-12-21",
+    "value": 5.09,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-12-22",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2009-12-22",
+    "value": 5.09,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2009-12-24",
+    "maxBottom": 0.9803536345776032
+  },
+  {
+    "date": "2009-12-23",
+    "value": 5.01,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2009-12-24",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-01-08",
+    "value": 5.19,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-01-11",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-01-28",
+    "value": 4.84,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-01-29",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-02-24",
+    "value": 4.79,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-02-25",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-03-05",
+    "value": 4.83,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2010-03-09",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-03-08",
+    "value": 4.83,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-03-09",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-03-09",
+    "value": 4.83,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-03-10",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-03-16",
+    "value": 4.8,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-03-17",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-04-09",
+    "value": 4.97,
+    "beGetProfit": true,
+    "timeGetProfit": 1137,
+    "dateGetProfit": "2015-01-05",
+    "maxBottom": 0.6438631790744468
+  },
+  {
+    "date": "2010-04-12",
+    "value": 4.95,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-04-13",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-04-20",
+    "value": 4.63,
+    "beGetProfit": true,
+    "timeGetProfit": 114,
+    "dateGetProfit": "2010-10-15",
+    "maxBottom": 0.8488120950323974
+  },
+  {
+    "date": "2010-04-21",
+    "value": 4.59,
+    "beGetProfit": true,
+    "timeGetProfit": 15,
+    "dateGetProfit": "2010-05-13",
+    "maxBottom": 0.9368191721132898
+  },
+  {
+    "date": "2010-04-22",
+    "value": 4.59,
+    "beGetProfit": true,
+    "timeGetProfit": 14,
+    "dateGetProfit": "2010-05-13",
+    "maxBottom": 0.9368191721132898
+  },
+  {
+    "date": "2010-04-23",
+    "value": 4.51,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-04-26",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-04-26",
+    "value": 4.51,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2010-04-29",
+    "maxBottom": 0.9756097560975611
+  },
+  {
+    "date": "2010-04-27",
+    "value": 4.51,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2010-04-29",
+    "maxBottom": 0.9756097560975611
+  },
+  {
+    "date": "2010-04-28",
+    "value": 4.41,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-04-29",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-05-06",
+    "value": 4.4,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-05-07",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-05-07",
+    "value": 4.36,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-05-10",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-06-01",
+    "value": 4.25,
+    "beGetProfit": true,
+    "timeGetProfit": 26,
+    "dateGetProfit": "2010-07-12",
+    "maxBottom": 0.9435294117647058
+  },
+  {
+    "date": "2010-06-02",
+    "value": 4.21,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-06-03",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-06-08",
+    "value": 4.11,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-06-09",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-06-30",
+    "value": 4.11,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2010-07-06",
+    "maxBottom": 0.9756690997566909
+  },
+  {
+    "date": "2010-07-19",
+    "value": 4.12,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-07-20",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-08-04",
+    "value": 4.29,
+    "beGetProfit": true,
+    "timeGetProfit": 42,
+    "dateGetProfit": "2010-10-14",
+    "maxBottom": 0.9160839160839161
+  },
+  {
+    "date": "2010-08-05",
+    "value": 4.26,
+    "beGetProfit": true,
+    "timeGetProfit": 41,
+    "dateGetProfit": "2010-10-14",
+    "maxBottom": 0.9225352112676057
+  },
+  {
+    "date": "2010-08-06",
+    "value": 4.2,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-08-09",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-08-11",
+    "value": 4.16,
+    "beGetProfit": true,
+    "timeGetProfit": 5,
+    "dateGetProfit": "2010-08-18",
+    "maxBottom": 0.9855769230769229
+  },
+  {
+    "date": "2010-08-12",
+    "value": 4.15,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2010-08-18",
+    "maxBottom": 0.9879518072289155
+  },
+  {
+    "date": "2010-08-13",
+    "value": 4.11,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-08-16",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-08-16",
+    "value": 4.1,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-08-17",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-08-24",
+    "value": 4.13,
+    "beGetProfit": true,
+    "timeGetProfit": 25,
+    "dateGetProfit": "2010-10-11",
+    "maxBottom": 0.9515738498789347
+  },
+  {
+    "date": "2010-08-25",
+    "value": 4.11,
+    "beGetProfit": true,
+    "timeGetProfit": 9,
+    "dateGetProfit": "2010-09-07",
+    "maxBottom": 0.9902676399026764
+  },
+  {
+    "date": "2010-09-01",
+    "value": 4.07,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-09-02",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-09-09",
+    "value": 4.07,
+    "beGetProfit": true,
+    "timeGetProfit": 12,
+    "dateGetProfit": "2010-10-08",
+    "maxBottom": 0.9656019656019655
+  },
+  {
+    "date": "2010-09-10",
+    "value": 4.04,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-09-13",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-09-15",
+    "value": 4.03,
+    "beGetProfit": true,
+    "timeGetProfit": 8,
+    "dateGetProfit": "2010-10-08",
+    "maxBottom": 0.9751861042183623
+  },
+  {
+    "date": "2010-09-16",
+    "value": 4.01,
+    "beGetProfit": true,
+    "timeGetProfit": 7,
+    "dateGetProfit": "2010-10-08",
+    "maxBottom": 0.9800498753117208
+  },
+  {
+    "date": "2010-09-17",
+    "value": 3.95,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-09-20",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-10-22",
+    "value": 4.48,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-10-25",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-10-25",
+    "value": 4.46,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-10-26",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-10-26",
+    "value": 4.42,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-10-27",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-10-27",
+    "value": 4.42,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-10-28",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-10-28",
+    "value": 4.41,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2010-11-02",
+    "maxBottom": 0.9863945578231291
+  },
+  {
+    "date": "2010-10-29",
+    "value": 4.38,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-11-01",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-11-15",
+    "value": 4.55,
+    "beGetProfit": true,
+    "timeGetProfit": 88,
+    "dateGetProfit": "2011-04-06",
+    "maxBottom": 0.8923076923076922
+  },
+  {
+    "date": "2010-11-24",
+    "value": 4.48,
+    "beGetProfit": true,
+    "timeGetProfit": 82,
+    "dateGetProfit": "2011-03-28",
+    "maxBottom": 0.9062499999999998
+  },
+  {
+    "date": "2010-11-30",
+    "value": 4.27,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2010-12-02",
+    "maxBottom": 0.9765807962529275
+  },
+  {
+    "date": "2010-12-08",
+    "value": 4.26,
+    "beGetProfit": true,
+    "timeGetProfit": 22,
+    "dateGetProfit": "2011-01-10",
+    "maxBottom": 0.9530516431924883
+  },
+  {
+    "date": "2010-12-09",
+    "value": 4.24,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2010-12-13",
+    "maxBottom": 0.9882075471698114
+  },
+  {
+    "date": "2010-12-10",
+    "value": 4.2,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2010-12-13",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2010-12-17",
+    "value": 4.2,
+    "beGetProfit": true,
+    "timeGetProfit": 9,
+    "dateGetProfit": "2010-12-30",
+    "maxBottom": 0.969047619047619
+  },
+  {
+    "date": "2010-12-20",
+    "value": 4.2,
+    "beGetProfit": true,
+    "timeGetProfit": 8,
+    "dateGetProfit": "2010-12-30",
+    "maxBottom": 0.969047619047619
+  },
+  {
+    "date": "2010-12-27",
+    "value": 4.14,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2010-12-30",
+    "maxBottom": 0.9830917874396137
+  },
+  {
+    "date": "2010-12-28",
+    "value": 4.14,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2010-12-30",
+    "maxBottom": 0.9855072463768116
+  },
+  {
+    "date": "2011-01-07",
+    "value": 4.15,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-01-10",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-01-21",
+    "value": 4.15,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-01-24",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-02-21",
+    "value": 4.3,
+    "beGetProfit": true,
+    "timeGetProfit": 8,
+    "dateGetProfit": "2011-03-03",
+    "maxBottom": 0.9767441860465117
+  },
+  {
+    "date": "2011-02-22",
+    "value": 4.27,
+    "beGetProfit": true,
+    "timeGetProfit": 7,
+    "dateGetProfit": "2011-03-03",
+    "maxBottom": 0.9836065573770493
+  },
+  {
+    "date": "2011-02-23",
+    "value": 4.21,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2011-02-25",
+    "maxBottom": 0.9976247030878861
+  },
+  {
+    "date": "2011-02-24",
+    "value": 4.2,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-02-25",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-03-11",
+    "value": 4.35,
+    "beGetProfit": true,
+    "timeGetProfit": 8,
+    "dateGetProfit": "2011-03-23",
+    "maxBottom": 0.9655172413793105
+  },
+  {
+    "date": "2011-03-14",
+    "value": 4.29,
+    "beGetProfit": true,
+    "timeGetProfit": 5,
+    "dateGetProfit": "2011-03-21",
+    "maxBottom": 0.9790209790209791
+  },
+  {
+    "date": "2011-03-15",
+    "value": 4.28,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2011-03-18",
+    "maxBottom": 0.9953271028037383
+  },
+  {
+    "date": "2011-04-01",
+    "value": 4.46,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-04-06",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-04-20",
+    "value": 4.56,
+    "beGetProfit": true,
+    "timeGetProfit": 6,
+    "dateGetProfit": "2011-04-28",
+    "maxBottom": 0.9802631578947368
+  },
+  {
+    "date": "2011-04-25",
+    "value": 4.53,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2011-04-28",
+    "maxBottom": 0.9889624724061811
+  },
+  {
+    "date": "2011-05-12",
+    "value": 4.53,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-05-13",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-05-13",
+    "value": 4.49,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-05-16",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-05-16",
+    "value": 4.49,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2011-05-18",
+    "maxBottom": 0.9977728285077951
+  },
+  {
+    "date": "2011-05-17",
+    "value": 4.49,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-05-18",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-05-24",
+    "value": 4.43,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2011-05-30",
+    "maxBottom": 0.9774266365688489
+  },
+  {
+    "date": "2011-05-25",
+    "value": 4.42,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2011-05-30",
+    "maxBottom": 0.9886877828054299
+  },
+  {
+    "date": "2011-06-16",
+    "value": 4.25,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-06-17",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-06-17",
+    "value": 4.25,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-06-20",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-06-20",
+    "value": 4.25,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-06-21",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-07-01",
+    "value": 4.44,
+    "beGetProfit": true,
+    "timeGetProfit": 386,
+    "dateGetProfit": "2013-02-04",
+    "maxBottom": 0.8108108108108107
+  },
+  {
+    "date": "2011-07-07",
+    "value": 4.32,
+    "beGetProfit": true,
+    "timeGetProfit": 5,
+    "dateGetProfit": "2011-07-14",
+    "maxBottom": 0.9907407407407407
+  },
+  {
+    "date": "2011-07-22",
+    "value": 4.34,
+    "beGetProfit": true,
+    "timeGetProfit": 64,
+    "dateGetProfit": "2011-10-28",
+    "maxBottom": 0.9078341013824885
+  },
+  {
+    "date": "2011-07-25",
+    "value": 4.34,
+    "beGetProfit": true,
+    "timeGetProfit": 63,
+    "dateGetProfit": "2011-10-28",
+    "maxBottom": 0.9078341013824885
+  },
+  {
+    "date": "2011-07-26",
+    "value": 4.28,
+    "beGetProfit": true,
+    "timeGetProfit": 62,
+    "dateGetProfit": "2011-10-28",
+    "maxBottom": 0.9205607476635513
+  },
+  {
+    "date": "2011-07-27",
+    "value": 4.27,
+    "beGetProfit": true,
+    "timeGetProfit": 61,
+    "dateGetProfit": "2011-10-28",
+    "maxBottom": 0.9227166276346604
+  },
+  {
+    "date": "2011-07-28",
+    "value": 4.25,
+    "beGetProfit": true,
+    "timeGetProfit": 59,
+    "dateGetProfit": "2011-10-27",
+    "maxBottom": 0.9270588235294117
+  },
+  {
+    "date": "2011-07-29",
+    "value": 4.2,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-08-01",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-08-03",
+    "value": 4.18,
+    "beGetProfit": true,
+    "timeGetProfit": 53,
+    "dateGetProfit": "2011-10-25",
+    "maxBottom": 0.9425837320574163
+  },
+  {
+    "date": "2011-08-04",
+    "value": 4.16,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2011-08-10",
+    "maxBottom": 0.9471153846153846
+  },
+  {
+    "date": "2011-08-05",
+    "value": 4.14,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2011-08-10",
+    "maxBottom": 0.9516908212560387
+  },
+  {
+    "date": "2011-08-08",
+    "value": 4.07,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2011-08-10",
+    "maxBottom": 0.968058968058968
+  },
+  {
+    "date": "2011-08-09",
+    "value": 4.0,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-08-10",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-08-22",
+    "value": 4.12,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2011-08-25",
+    "maxBottom": 0.9878640776699029
+  },
+  {
+    "date": "2011-08-23",
+    "value": 4.07,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-08-24",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-08-24",
+    "value": 4.07,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-08-25",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-08-25",
+    "value": 4.07,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-08-26",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-09-05",
+    "value": 4.09,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2011-09-07",
+    "maxBottom": 0.9902200488997555
+  },
+  {
+    "date": "2011-09-06",
+    "value": 4.06,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-09-07",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-09-19",
+    "value": 4.06,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2011-09-21",
+    "maxBottom": 0.9975369458128079
+  },
+  {
+    "date": "2011-09-20",
+    "value": 4.06,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-09-21",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-09-23",
+    "value": 3.98,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2011-09-27",
+    "maxBottom": 0.9899497487437185
+  },
+  {
+    "date": "2011-09-26",
+    "value": 3.96,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-09-27",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-10-10",
+    "value": 3.95,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-10-11",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-11-22",
+    "value": 4.24,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2011-11-24",
+    "maxBottom": 0.9905660377358491
+  },
+  {
+    "date": "2011-11-23",
+    "value": 4.22,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-11-24",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-12-07",
+    "value": 4.19,
+    "beGetProfit": true,
+    "timeGetProfit": 17,
+    "dateGetProfit": "2011-12-30",
+    "maxBottom": 0.9689737470167062
+  },
+  {
+    "date": "2011-12-12",
+    "value": 4.14,
+    "beGetProfit": true,
+    "timeGetProfit": 5,
+    "dateGetProfit": "2011-12-19",
+    "maxBottom": 0.9806763285024155
+  },
+  {
+    "date": "2011-12-13",
+    "value": 4.12,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2011-12-16",
+    "maxBottom": 0.9927184466019416
+  },
+  {
+    "date": "2011-12-14",
+    "value": 4.11,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2011-12-16",
+    "maxBottom": 0.9951338199513381
+  },
+  {
+    "date": "2011-12-15",
+    "value": 4.1,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-12-16",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-12-16",
+    "value": 4.09,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-12-19",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2011-12-19",
+    "value": 4.06,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2011-12-20",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-01-17",
+    "value": 4.3,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-01-18",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-03-06",
+    "value": 4.36,
+    "beGetProfit": true,
+    "timeGetProfit": 7,
+    "dateGetProfit": "2012-03-15",
+    "maxBottom": 0.9862385321100916
+  },
+  {
+    "date": "2012-03-07",
+    "value": 4.34,
+    "beGetProfit": true,
+    "timeGetProfit": 5,
+    "dateGetProfit": "2012-03-14",
+    "maxBottom": 0.9907834101382489
+  },
+  {
+    "date": "2012-03-15",
+    "value": 4.3,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-03-16",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-03-16",
+    "value": 4.3,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2012-03-21",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-03-26",
+    "value": 4.3,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2012-03-28",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-04-27",
+    "value": 4.37,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-05-02",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-05-11",
+    "value": 4.38,
+    "beGetProfit": true,
+    "timeGetProfit": 179,
+    "dateGetProfit": "2013-01-31",
+    "maxBottom": 0.8219178082191781
+  },
+  {
+    "date": "2012-05-14",
+    "value": 4.35,
+    "beGetProfit": true,
+    "timeGetProfit": 177,
+    "dateGetProfit": "2013-01-30",
+    "maxBottom": 0.8275862068965518
+  },
+  {
+    "date": "2012-05-15",
+    "value": 4.35,
+    "beGetProfit": true,
+    "timeGetProfit": 176,
+    "dateGetProfit": "2013-01-30",
+    "maxBottom": 0.8275862068965518
+  },
+  {
+    "date": "2012-05-16",
+    "value": 4.32,
+    "beGetProfit": true,
+    "timeGetProfit": 175,
+    "dateGetProfit": "2013-01-30",
+    "maxBottom": 0.8333333333333333
+  },
+  {
+    "date": "2012-05-17",
+    "value": 4.28,
+    "beGetProfit": true,
+    "timeGetProfit": 174,
+    "dateGetProfit": "2013-01-30",
+    "maxBottom": 0.8411214953271028
+  },
+  {
+    "date": "2012-05-18",
+    "value": 4.28,
+    "beGetProfit": true,
+    "timeGetProfit": 173,
+    "dateGetProfit": "2013-01-30",
+    "maxBottom": 0.8411214953271028
+  },
+  {
+    "date": "2012-05-21",
+    "value": 4.22,
+    "beGetProfit": true,
+    "timeGetProfit": 160,
+    "dateGetProfit": "2013-01-14",
+    "maxBottom": 0.8530805687203792
+  },
+  {
+    "date": "2012-05-22",
+    "value": 4.2,
+    "beGetProfit": true,
+    "timeGetProfit": 6,
+    "dateGetProfit": "2012-05-30",
+    "maxBottom": 0.9904761904761905
+  },
+  {
+    "date": "2012-05-23",
+    "value": 4.2,
+    "beGetProfit": true,
+    "timeGetProfit": 5,
+    "dateGetProfit": "2012-05-30",
+    "maxBottom": 0.9904761904761905
+  },
+  {
+    "date": "2012-05-24",
+    "value": 4.17,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2012-05-29",
+    "maxBottom": 0.9976019184652278
+  },
+  {
+    "date": "2012-05-25",
+    "value": 4.17,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2012-05-29",
+    "maxBottom": 0.9976019184652278
+  },
+  {
+    "date": "2012-05-28",
+    "value": 4.16,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-05-29",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-06-15",
+    "value": 3.93,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-06-18",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-06-18",
+    "value": 3.93,
+    "beGetProfit": true,
+    "timeGetProfit": 119,
+    "dateGetProfit": "2012-12-10",
+    "maxBottom": 0.916030534351145
+  },
+  {
+    "date": "2012-06-19",
+    "value": 3.93,
+    "beGetProfit": true,
+    "timeGetProfit": 118,
+    "dateGetProfit": "2012-12-10",
+    "maxBottom": 0.916030534351145
+  },
+  {
+    "date": "2012-06-25",
+    "value": 3.9,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-06-26",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-07-05",
+    "value": 3.92,
+    "beGetProfit": true,
+    "timeGetProfit": 107,
+    "dateGetProfit": "2012-12-10",
+    "maxBottom": 0.9183673469387755
+  },
+  {
+    "date": "2012-07-06",
+    "value": 3.92,
+    "beGetProfit": true,
+    "timeGetProfit": 106,
+    "dateGetProfit": "2012-12-10",
+    "maxBottom": 0.9183673469387755
+  },
+  {
+    "date": "2012-07-09",
+    "value": 3.89,
+    "beGetProfit": true,
+    "timeGetProfit": 70,
+    "dateGetProfit": "2012-10-22",
+    "maxBottom": 0.9254498714652957
+  },
+  {
+    "date": "2012-07-10",
+    "value": 3.77,
+    "beGetProfit": true,
+    "timeGetProfit": 5,
+    "dateGetProfit": "2012-07-17",
+    "maxBottom": 0.9893899204244032
+  },
+  {
+    "date": "2012-07-11",
+    "value": 3.77,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2012-07-17",
+    "maxBottom": 0.9893899204244032
+  },
+  {
+    "date": "2012-07-12",
+    "value": 3.75,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2012-07-16",
+    "maxBottom": 0.9946666666666667
+  },
+  {
+    "date": "2012-07-13",
+    "value": 3.74,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-07-16",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-07-23",
+    "value": 3.76,
+    "beGetProfit": true,
+    "timeGetProfit": 9,
+    "dateGetProfit": "2012-08-03",
+    "maxBottom": 0.973404255319149
+  },
+  {
+    "date": "2012-07-24",
+    "value": 3.69,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2012-07-30",
+    "maxBottom": 0.9918699186991871
+  },
+  {
+    "date": "2012-07-25",
+    "value": 3.67,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2012-07-27",
+    "maxBottom": 0.9972752043596731
+  },
+  {
+    "date": "2012-07-26",
+    "value": 3.67,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-07-27",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-09-04",
+    "value": 3.75,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2012-09-07",
+    "maxBottom": 0.9786666666666667
+  },
+  {
+    "date": "2012-09-05",
+    "value": 3.72,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2012-09-07",
+    "maxBottom": 0.9865591397849461
+  },
+  {
+    "date": "2012-09-06",
+    "value": 3.68,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-09-07",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-09-19",
+    "value": 3.7,
+    "beGetProfit": true,
+    "timeGetProfit": 6,
+    "dateGetProfit": "2012-09-27",
+    "maxBottom": 0.9729729729729729
+  },
+  {
+    "date": "2012-09-20",
+    "value": 3.69,
+    "beGetProfit": true,
+    "timeGetProfit": 5,
+    "dateGetProfit": "2012-09-27",
+    "maxBottom": 0.9756097560975611
+  },
+  {
+    "date": "2012-09-21",
+    "value": 3.67,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2012-09-27",
+    "maxBottom": 0.9809264305177112
+  },
+  {
+    "date": "2012-09-24",
+    "value": 3.66,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2012-09-27",
+    "maxBottom": 0.9836065573770492
+  },
+  {
+    "date": "2012-09-25",
+    "value": 3.61,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-09-26",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-09-26",
+    "value": 3.61,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-09-27",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-10-25",
+    "value": 3.88,
+    "beGetProfit": true,
+    "timeGetProfit": 6,
+    "dateGetProfit": "2012-11-02",
+    "maxBottom": 0.9742268041237113
+  },
+  {
+    "date": "2012-10-26",
+    "value": 3.85,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2012-11-01",
+    "maxBottom": 0.9818181818181817
+  },
+  {
+    "date": "2012-10-29",
+    "value": 3.82,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2012-11-01",
+    "maxBottom": 0.9895287958115183
+  },
+  {
+    "date": "2012-10-30",
+    "value": 3.8,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-10-31",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-11-09",
+    "value": 3.84,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-11-12",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-11-12",
+    "value": 3.84,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-11-13",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-11-13",
+    "value": 3.84,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-11-14",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-11-14",
+    "value": 3.84,
+    "beGetProfit": true,
+    "timeGetProfit": 10,
+    "dateGetProfit": "2012-11-28",
+    "maxBottom": 0.9895833333333334
+  },
+  {
+    "date": "2012-11-15",
+    "value": 3.83,
+    "beGetProfit": true,
+    "timeGetProfit": 9,
+    "dateGetProfit": "2012-11-28",
+    "maxBottom": 0.9921671018276762
+  },
+  {
+    "date": "2012-11-16",
+    "value": 3.83,
+    "beGetProfit": true,
+    "timeGetProfit": 8,
+    "dateGetProfit": "2012-11-28",
+    "maxBottom": 0.9921671018276762
+  },
+  {
+    "date": "2012-11-19",
+    "value": 3.82,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2012-11-23",
+    "maxBottom": 0.9947643979057592
+  },
+  {
+    "date": "2012-11-20",
+    "value": 3.81,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-11-21",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2012-12-05",
+    "value": 3.84,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2012-12-06",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-01-22",
+    "value": 4.17,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-01-23",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-02-07",
+    "value": 4.35,
+    "beGetProfit": true,
+    "timeGetProfit": 440,
+    "dateGetProfit": "2014-12-05",
+    "maxBottom": 0.7356321839080461
+  },
+  {
+    "date": "2013-02-20",
+    "value": 4.25,
+    "beGetProfit": true,
+    "timeGetProfit": 119,
+    "dateGetProfit": "2013-08-16",
+    "maxBottom": 0.7999999999999999
+  },
+  {
+    "date": "2013-02-21",
+    "value": 4.22,
+    "beGetProfit": true,
+    "timeGetProfit": 118,
+    "dateGetProfit": "2013-08-16",
+    "maxBottom": 0.8056872037914692
+  },
+  {
+    "date": "2013-03-19",
+    "value": 4.06,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-03-20",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-03-27",
+    "value": 4.11,
+    "beGetProfit": true,
+    "timeGetProfit": 32,
+    "dateGetProfit": "2013-05-17",
+    "maxBottom": 0.97323600973236
+  },
+  {
+    "date": "2013-03-28",
+    "value": 4.11,
+    "beGetProfit": true,
+    "timeGetProfit": 31,
+    "dateGetProfit": "2013-05-17",
+    "maxBottom": 0.9781021897810217
+  },
+  {
+    "date": "2013-04-15",
+    "value": 4.06,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2013-04-19",
+    "maxBottom": 0.9901477832512315
+  },
+  {
+    "date": "2013-04-16",
+    "value": 4.03,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2013-04-19",
+    "maxBottom": 0.9975186104218361
+  },
+  {
+    "date": "2013-04-17",
+    "value": 4.02,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-04-18",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-04-18",
+    "value": 4.02,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-04-19",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-04-26",
+    "value": 4.06,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2013-05-03",
+    "maxBottom": 0.9926108374384238
+  },
+  {
+    "date": "2013-05-02",
+    "value": 4.05,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-05-03",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-05-14",
+    "value": 4.09,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2013-05-17",
+    "maxBottom": 0.9902200488997555
+  },
+  {
+    "date": "2013-05-15",
+    "value": 4.06,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-05-16",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-05-16",
+    "value": 4.06,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-05-17",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-05-24",
+    "value": 4.15,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2013-05-28",
+    "maxBottom": 0.9951807228915661
+  },
+  {
+    "date": "2013-05-27",
+    "value": 4.15,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-05-28",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-05-28",
+    "value": 4.13,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-05-29",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-06-21",
+    "value": 4.04,
+    "beGetProfit": true,
+    "timeGetProfit": 40,
+    "dateGetProfit": "2013-08-16",
+    "maxBottom": 0.8415841584158416
+  },
+  {
+    "date": "2013-06-24",
+    "value": 4.0,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2013-06-28",
+    "maxBottom": 0.85
+  },
+  {
+    "date": "2013-06-25",
+    "value": 3.87,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2013-06-28",
+    "maxBottom": 0.8785529715762274
+  },
+  {
+    "date": "2013-07-05",
+    "value": 3.9,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-07-08",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-07-08",
+    "value": 3.9,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-07-09",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-07-09",
+    "value": 3.9,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-07-10",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-07-10",
+    "value": 3.9,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-07-11",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-07-19",
+    "value": 3.92,
+    "beGetProfit": true,
+    "timeGetProfit": 16,
+    "dateGetProfit": "2013-08-12",
+    "maxBottom": 0.9897959183673469
+  },
+  {
+    "date": "2013-07-22",
+    "value": 3.9,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-07-23",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-07-29",
+    "value": 3.9,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2013-08-02",
+    "maxBottom": 0.9948717948717949
+  },
+  {
+    "date": "2013-07-30",
+    "value": 3.88,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-07-31",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-08-08",
+    "value": 3.89,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2013-08-12",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-08-09",
+    "value": 3.89,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-08-12",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-08-22",
+    "value": 3.9,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2013-08-26",
+    "maxBottom": 0.9897435897435898
+  },
+  {
+    "date": "2013-08-30",
+    "value": 3.86,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-09-02",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-09-17",
+    "value": 3.97,
+    "beGetProfit": true,
+    "timeGetProfit": 290,
+    "dateGetProfit": "2014-11-28",
+    "maxBottom": 0.8060453400503779
+  },
+  {
+    "date": "2013-09-18",
+    "value": 3.93,
+    "beGetProfit": true,
+    "timeGetProfit": 289,
+    "dateGetProfit": "2014-11-28",
+    "maxBottom": 0.8142493638676845
+  },
+  {
+    "date": "2013-09-23",
+    "value": 3.9,
+    "beGetProfit": true,
+    "timeGetProfit": 288,
+    "dateGetProfit": "2014-11-28",
+    "maxBottom": 0.8205128205128206
+  },
+  {
+    "date": "2013-09-24",
+    "value": 3.9,
+    "beGetProfit": true,
+    "timeGetProfit": 287,
+    "dateGetProfit": "2014-11-28",
+    "maxBottom": 0.8205128205128206
+  },
+  {
+    "date": "2013-10-10",
+    "value": 3.84,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-10-11",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-10-25",
+    "value": 3.8,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2013-10-31",
+    "maxBottom": 0.986842105263158
+  },
+  {
+    "date": "2013-10-28",
+    "value": 3.77,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-10-29",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-11-07",
+    "value": 3.8,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-11-08",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-11-14",
+    "value": 3.78,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-11-15",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-11-15",
+    "value": 3.77,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-11-18",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-11-27",
+    "value": 3.78,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-11-28",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-12-09",
+    "value": 3.8,
+    "beGetProfit": true,
+    "timeGetProfit": 225,
+    "dateGetProfit": "2014-11-11",
+    "maxBottom": 0.8421052631578948
+  },
+  {
+    "date": "2013-12-10",
+    "value": 3.79,
+    "beGetProfit": true,
+    "timeGetProfit": 224,
+    "dateGetProfit": "2014-11-11",
+    "maxBottom": 0.8443271767810027
+  },
+  {
+    "date": "2013-12-11",
+    "value": 3.79,
+    "beGetProfit": true,
+    "timeGetProfit": 223,
+    "dateGetProfit": "2014-11-11",
+    "maxBottom": 0.8443271767810027
+  },
+  {
+    "date": "2013-12-12",
+    "value": 3.77,
+    "beGetProfit": true,
+    "timeGetProfit": 222,
+    "dateGetProfit": "2014-11-11",
+    "maxBottom": 0.8488063660477454
+  },
+  {
+    "date": "2013-12-13",
+    "value": 3.75,
+    "beGetProfit": true,
+    "timeGetProfit": 221,
+    "dateGetProfit": "2014-11-11",
+    "maxBottom": 0.8533333333333334
+  },
+  {
+    "date": "2013-12-16",
+    "value": 3.69,
+    "beGetProfit": true,
+    "timeGetProfit": 116,
+    "dateGetProfit": "2014-06-10",
+    "maxBottom": 0.8672086720867209
+  },
+  {
+    "date": "2013-12-17",
+    "value": 3.68,
+    "beGetProfit": true,
+    "timeGetProfit": 115,
+    "dateGetProfit": "2014-06-10",
+    "maxBottom": 0.8695652173913043
+  },
+  {
+    "date": "2013-12-18",
+    "value": 3.67,
+    "beGetProfit": true,
+    "timeGetProfit": 114,
+    "dateGetProfit": "2014-06-10",
+    "maxBottom": 0.8719346049046323
+  },
+  {
+    "date": "2013-12-19",
+    "value": 3.66,
+    "beGetProfit": true,
+    "timeGetProfit": 113,
+    "dateGetProfit": "2014-06-10",
+    "maxBottom": 0.8743169398907104
+  },
+  {
+    "date": "2013-12-20",
+    "value": 3.62,
+    "beGetProfit": true,
+    "timeGetProfit": 111,
+    "dateGetProfit": "2014-06-09",
+    "maxBottom": 0.8839779005524863
+  },
+  {
+    "date": "2013-12-23",
+    "value": 3.56,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-12-24",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2013-12-27",
+    "value": 3.53,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2013-12-30",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-01-06",
+    "value": 3.55,
+    "beGetProfit": true,
+    "timeGetProfit": 95,
+    "dateGetProfit": "2014-05-29",
+    "maxBottom": 0.9014084507042255
+  },
+  {
+    "date": "2014-01-07",
+    "value": 3.51,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-01-08",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-01-10",
+    "value": 3.51,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-01-13",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-01-15",
+    "value": 3.5,
+    "beGetProfit": true,
+    "timeGetProfit": 55,
+    "dateGetProfit": "2014-04-10",
+    "maxBottom": 0.9142857142857144
+  },
+  {
+    "date": "2014-01-16",
+    "value": 3.44,
+    "beGetProfit": true,
+    "timeGetProfit": 15,
+    "dateGetProfit": "2014-02-13",
+    "maxBottom": 0.9680232558139535
+  },
+  {
+    "date": "2014-01-17",
+    "value": 3.42,
+    "beGetProfit": true,
+    "timeGetProfit": 12,
+    "dateGetProfit": "2014-02-11",
+    "maxBottom": 0.9736842105263158
+  },
+  {
+    "date": "2014-01-20",
+    "value": 3.4,
+    "beGetProfit": true,
+    "timeGetProfit": 7,
+    "dateGetProfit": "2014-01-29",
+    "maxBottom": 0.9794117647058824
+  },
+  {
+    "date": "2014-01-21",
+    "value": 3.38,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-01-22",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-02-19",
+    "value": 3.42,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-02-20",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-02-24",
+    "value": 3.42,
+    "beGetProfit": true,
+    "timeGetProfit": 24,
+    "dateGetProfit": "2014-03-28",
+    "maxBottom": 0.9356725146198831
+  },
+  {
+    "date": "2014-02-25",
+    "value": 3.36,
+    "beGetProfit": true,
+    "timeGetProfit": 21,
+    "dateGetProfit": "2014-03-26",
+    "maxBottom": 0.9523809523809524
+  },
+  {
+    "date": "2014-02-26",
+    "value": 3.36,
+    "beGetProfit": true,
+    "timeGetProfit": 20,
+    "dateGetProfit": "2014-03-26",
+    "maxBottom": 0.9523809523809524
+  },
+  {
+    "date": "2014-02-27",
+    "value": 3.32,
+    "beGetProfit": true,
+    "timeGetProfit": 16,
+    "dateGetProfit": "2014-03-21",
+    "maxBottom": 0.9638554216867471
+  },
+  {
+    "date": "2014-02-28",
+    "value": 3.32,
+    "beGetProfit": true,
+    "timeGetProfit": 15,
+    "dateGetProfit": "2014-03-21",
+    "maxBottom": 0.9638554216867471
+  },
+  {
+    "date": "2014-03-03",
+    "value": 3.32,
+    "beGetProfit": true,
+    "timeGetProfit": 14,
+    "dateGetProfit": "2014-03-21",
+    "maxBottom": 0.9638554216867471
+  },
+  {
+    "date": "2014-03-04",
+    "value": 3.31,
+    "beGetProfit": true,
+    "timeGetProfit": 13,
+    "dateGetProfit": "2014-03-21",
+    "maxBottom": 0.9667673716012085
+  },
+  {
+    "date": "2014-03-05",
+    "value": 3.31,
+    "beGetProfit": true,
+    "timeGetProfit": 12,
+    "dateGetProfit": "2014-03-21",
+    "maxBottom": 0.9667673716012085
+  },
+  {
+    "date": "2014-03-06",
+    "value": 3.31,
+    "beGetProfit": true,
+    "timeGetProfit": 11,
+    "dateGetProfit": "2014-03-21",
+    "maxBottom": 0.9667673716012085
+  },
+  {
+    "date": "2014-03-11",
+    "value": 3.25,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2014-03-13",
+    "maxBottom": 0.9846153846153847
+  },
+  {
+    "date": "2014-03-12",
+    "value": 3.2,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-03-13",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-04-04",
+    "value": 3.41,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-04-08",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-04-16",
+    "value": 3.44,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-04-17",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-04-21",
+    "value": 3.44,
+    "beGetProfit": true,
+    "timeGetProfit": 13,
+    "dateGetProfit": "2014-05-12",
+    "maxBottom": 0.9854651162790699
+  },
+  {
+    "date": "2014-04-22",
+    "value": 3.44,
+    "beGetProfit": true,
+    "timeGetProfit": 12,
+    "dateGetProfit": "2014-05-12",
+    "maxBottom": 0.9854651162790699
+  },
+  {
+    "date": "2014-04-23",
+    "value": 3.43,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-04-24",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-04-24",
+    "value": 3.42,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-04-25",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-05-05",
+    "value": 3.41,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2014-05-08",
+    "maxBottom": 0.9941348973607038
+  },
+  {
+    "date": "2014-05-06",
+    "value": 3.39,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2014-05-08",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-06-19",
+    "value": 3.69,
+    "beGetProfit": true,
+    "timeGetProfit": 97,
+    "dateGetProfit": "2014-11-11",
+    "maxBottom": 0.913279132791328
+  },
+  {
+    "date": "2014-06-26",
+    "value": 3.37,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2014-06-30",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-06-27",
+    "value": 3.37,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-06-30",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-07-18",
+    "value": 3.43,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2014-07-24",
+    "maxBottom": 0.9941690962099126
+  },
+  {
+    "date": "2014-07-21",
+    "value": 3.43,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2014-07-24",
+    "maxBottom": 0.9941690962099126
+  },
+  {
+    "date": "2014-07-22",
+    "value": 3.41,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-07-23",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-08-07",
+    "value": 3.55,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2014-08-11",
+    "maxBottom": 0.9774647887323945
+  },
+  {
+    "date": "2014-08-08",
+    "value": 3.51,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-08-11",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-08-15",
+    "value": 3.5,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-08-18",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-08-18",
+    "value": 3.5,
+    "beGetProfit": true,
+    "timeGetProfit": 12,
+    "dateGetProfit": "2014-09-03",
+    "maxBottom": 0.9800000000000001
+  },
+  {
+    "date": "2014-08-19",
+    "value": 3.5,
+    "beGetProfit": true,
+    "timeGetProfit": 11,
+    "dateGetProfit": "2014-09-03",
+    "maxBottom": 0.9800000000000001
+  },
+  {
+    "date": "2014-08-20",
+    "value": 3.5,
+    "beGetProfit": true,
+    "timeGetProfit": 10,
+    "dateGetProfit": "2014-09-03",
+    "maxBottom": 0.9800000000000001
+  },
+  {
+    "date": "2014-08-21",
+    "value": 3.5,
+    "beGetProfit": true,
+    "timeGetProfit": 9,
+    "dateGetProfit": "2014-09-03",
+    "maxBottom": 0.9800000000000001
+  },
+  {
+    "date": "2014-08-26",
+    "value": 3.48,
+    "beGetProfit": true,
+    "timeGetProfit": 5,
+    "dateGetProfit": "2014-09-02",
+    "maxBottom": 0.9856321839080461
+  },
+  {
+    "date": "2014-08-27",
+    "value": 3.48,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2014-09-02",
+    "maxBottom": 0.9856321839080461
+  },
+  {
+    "date": "2014-08-28",
+    "value": 3.47,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2014-09-02",
+    "maxBottom": 0.9884726224783862
+  },
+  {
+    "date": "2014-08-29",
+    "value": 3.43,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-09-01",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-09-12",
+    "value": 3.54,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2014-09-16",
+    "maxBottom": 0.9971751412429378
+  },
+  {
+    "date": "2014-09-15",
+    "value": 3.54,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-09-16",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-09-19",
+    "value": 3.53,
+    "beGetProfit": true,
+    "timeGetProfit": 24,
+    "dateGetProfit": "2014-10-30",
+    "maxBottom": 0.98300283286119
+  },
+  {
+    "date": "2014-09-22",
+    "value": 3.53,
+    "beGetProfit": true,
+    "timeGetProfit": 23,
+    "dateGetProfit": "2014-10-30",
+    "maxBottom": 0.98300283286119
+  },
+  {
+    "date": "2014-09-23",
+    "value": 3.48,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-09-24",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-09-24",
+    "value": 3.48,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-09-25",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-10-08",
+    "value": 3.51,
+    "beGetProfit": true,
+    "timeGetProfit": 15,
+    "dateGetProfit": "2014-10-29",
+    "maxBottom": 0.9886039886039887
+  },
+  {
+    "date": "2014-10-14",
+    "value": 3.48,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2014-10-16",
+    "maxBottom": 0.9971264367816093
+  },
+  {
+    "date": "2014-10-15",
+    "value": 3.48,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-10-16",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-10-23",
+    "value": 3.49,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-10-24",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-11-06",
+    "value": 3.57,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-11-07",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-11-07",
+    "value": 3.54,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-11-10",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2014-11-19",
+    "value": 3.71,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2014-11-21",
+    "maxBottom": 0.9838274932614555
+  },
+  {
+    "date": "2014-11-20",
+    "value": 3.67,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2014-11-21",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-01-09",
+    "value": 4.8,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-01-12",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-01-12",
+    "value": 4.74,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-01-13",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-01-20",
+    "value": 4.64,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-01-21",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-01-28",
+    "value": 4.69,
+    "beGetProfit": true,
+    "timeGetProfit": 30,
+    "dateGetProfit": "2015-03-18",
+    "maxBottom": 0.9040511727078892
+  },
+  {
+    "date": "2015-01-30",
+    "value": 4.53,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2015-02-05",
+    "maxBottom": 0.9646799116997792
+  },
+  {
+    "date": "2015-02-03",
+    "value": 4.38,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-02-04",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-02-09",
+    "value": 4.27,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-02-10",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-03-04",
+    "value": 4.4,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2015-03-09",
+    "maxBottom": 0.9727272727272727
+  },
+  {
+    "date": "2015-03-05",
+    "value": 4.36,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2015-03-09",
+    "maxBottom": 0.9862385321100916
+  },
+  {
+    "date": "2015-05-05",
+    "value": 5.36,
+    "beGetProfit": true,
+    "timeGetProfit": 14,
+    "dateGetProfit": "2015-05-25",
+    "maxBottom": 0.9291044776119404
+  },
+  {
+    "date": "2015-05-06",
+    "value": 5.11,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-05-07",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-05-07",
+    "value": 5.1,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-05-08",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-05-08",
+    "value": 5.07,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-05-11",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-05-11",
+    "value": 5.07,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-05-12",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-05-18",
+    "value": 5.03,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-05-19",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-05-19",
+    "value": 4.99,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-05-20",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-05-29",
+    "value": 5.07,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-06-01",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-06-16",
+    "value": 5.31,
+    "beGetProfit": true,
+    "timeGetProfit": 11,
+    "dateGetProfit": "2015-07-02",
+    "maxBottom": 0.8851224105461395
+  },
+  {
+    "date": "2015-06-19",
+    "value": 5.07,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-06-23",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-06-29",
+    "value": 4.85,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-06-30",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-07-22",
+    "value": 5.11,
+    "beGetProfit": true,
+    "timeGetProfit": 448,
+    "dateGetProfit": "2017-05-25",
+    "maxBottom": 0.7455968688845401
+  },
+  {
+    "date": "2015-07-23",
+    "value": 5.11,
+    "beGetProfit": true,
+    "timeGetProfit": 447,
+    "dateGetProfit": "2017-05-25",
+    "maxBottom": 0.7455968688845401
+  },
+  {
+    "date": "2015-07-24",
+    "value": 5.1,
+    "beGetProfit": true,
+    "timeGetProfit": 446,
+    "dateGetProfit": "2017-05-25",
+    "maxBottom": 0.7470588235294118
+  },
+  {
+    "date": "2015-07-27",
+    "value": 5.09,
+    "beGetProfit": true,
+    "timeGetProfit": 445,
+    "dateGetProfit": "2017-05-25",
+    "maxBottom": 0.7485265225933203
+  },
+  {
+    "date": "2015-07-28",
+    "value": 4.76,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-07-29",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-08-13",
+    "value": 4.79,
+    "beGetProfit": true,
+    "timeGetProfit": 14,
+    "dateGetProfit": "2015-09-02",
+    "maxBottom": 0.7954070981210856
+  },
+  {
+    "date": "2015-08-18",
+    "value": 4.69,
+    "beGetProfit": true,
+    "timeGetProfit": 11,
+    "dateGetProfit": "2015-09-02",
+    "maxBottom": 0.812366737739872
+  },
+  {
+    "date": "2015-08-19",
+    "value": 4.63,
+    "beGetProfit": true,
+    "timeGetProfit": 10,
+    "dateGetProfit": "2015-09-02",
+    "maxBottom": 0.8228941684665227
+  },
+  {
+    "date": "2015-08-25",
+    "value": 4.09,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2015-08-27",
+    "maxBottom": 0.9315403422982885
+  },
+  {
+    "date": "2015-08-26",
+    "value": 3.81,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-08-27",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-09-21",
+    "value": 4.42,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2015-09-25",
+    "maxBottom": 0.9841628959276018
+  },
+  {
+    "date": "2015-09-24",
+    "value": 4.36,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-09-25",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-09-25",
+    "value": 4.35,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-09-28",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-10-30",
+    "value": 4.57,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2015-11-05",
+    "maxBottom": 0.9693654266958424
+  },
+  {
+    "date": "2015-11-02",
+    "value": 4.56,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2015-11-05",
+    "maxBottom": 0.9714912280701754
+  },
+  {
+    "date": "2015-11-03",
+    "value": 4.52,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-11-04",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-11-04",
+    "value": 4.44,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-11-05",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-11-13",
+    "value": 4.62,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2015-11-17",
+    "maxBottom": 0.9870129870129869
+  },
+  {
+    "date": "2015-11-16",
+    "value": 4.6,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-11-17",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-11-24",
+    "value": 4.61,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-11-25",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-12-14",
+    "value": 4.56,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2015-12-15",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2015-12-29",
+    "value": 4.59,
+    "beGetProfit": true,
+    "timeGetProfit": 232,
+    "dateGetProfit": "2016-12-12",
+    "maxBottom": 0.8474945533769064
+  },
+  {
+    "date": "2015-12-30",
+    "value": 4.58,
+    "beGetProfit": true,
+    "timeGetProfit": 231,
+    "dateGetProfit": "2016-12-12",
+    "maxBottom": 0.8493449781659389
+  },
+  {
+    "date": "2015-12-31",
+    "value": 4.58,
+    "beGetProfit": true,
+    "timeGetProfit": 230,
+    "dateGetProfit": "2016-12-12",
+    "maxBottom": 0.8493449781659389
+  },
+  {
+    "date": "2016-01-04",
+    "value": 4.58,
+    "beGetProfit": true,
+    "timeGetProfit": 229,
+    "dateGetProfit": "2016-12-12",
+    "maxBottom": 0.8493449781659389
+  },
+  {
+    "date": "2016-01-05",
+    "value": 4.44,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2016-01-06",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2016-01-12",
+    "value": 4.31,
+    "beGetProfit": true,
+    "timeGetProfit": 36,
+    "dateGetProfit": "2016-03-09",
+    "maxBottom": 0.9025522041763342
+  },
+  {
+    "date": "2016-01-13",
+    "value": 4.31,
+    "beGetProfit": true,
+    "timeGetProfit": 35,
+    "dateGetProfit": "2016-03-09",
+    "maxBottom": 0.9025522041763342
+  },
+  {
+    "date": "2016-01-14",
+    "value": 4.29,
+    "beGetProfit": true,
+    "timeGetProfit": 33,
+    "dateGetProfit": "2016-03-08",
+    "maxBottom": 0.9067599067599068
+  },
+  {
+    "date": "2016-01-15",
+    "value": 4.21,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2016-01-19",
+    "maxBottom": 0.9904988123515439
+  },
+  {
+    "date": "2016-01-18",
+    "value": 4.21,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2016-01-19",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2016-02-02",
+    "value": 4.0,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2016-02-04",
+    "maxBottom": 0.9925
+  },
+  {
+    "date": "2016-02-03",
+    "value": 4.0,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2016-02-04",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2016-02-26",
+    "value": 4.0,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2016-02-29",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2016-02-29",
+    "value": 4.0,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2016-03-02",
+    "maxBottom": 0.995
+  },
+  {
+    "date": "2016-03-25",
+    "value": 4.25,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2016-03-28",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2016-03-28",
+    "value": 4.25,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2016-03-29",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2016-03-29",
+    "value": 4.25,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2016-03-30",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2016-03-30",
+    "value": 4.25,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2016-03-31",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2016-04-08",
+    "value": 4.26,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2016-04-11",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2016-04-29",
+    "value": 4.25,
+    "beGetProfit": true,
+    "timeGetProfit": 20,
+    "dateGetProfit": "2016-05-30",
+    "maxBottom": 0.9741176470588234
+  },
+  {
+    "date": "2016-05-03",
+    "value": 4.25,
+    "beGetProfit": true,
+    "timeGetProfit": 19,
+    "dateGetProfit": "2016-05-30",
+    "maxBottom": 0.9741176470588234
+  },
+  {
+    "date": "2016-05-09",
+    "value": 4.23,
+    "beGetProfit": true,
+    "timeGetProfit": 10,
+    "dateGetProfit": "2016-05-23",
+    "maxBottom": 0.978723404255319
+  },
+  {
+    "date": "2016-05-10",
+    "value": 4.16,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2016-05-11",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2016-07-11",
+    "value": 4.27,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2016-07-12",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2016-07-12",
+    "value": 4.26,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2016-07-13",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2016-07-20",
+    "value": 4.29,
+    "beGetProfit": true,
+    "timeGetProfit": 9,
+    "dateGetProfit": "2016-08-02",
+    "maxBottom": 0.9883449883449884
+  },
+  {
+    "date": "2016-07-21",
+    "value": 4.27,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2016-07-26",
+    "maxBottom": 0.9929742388758783
+  },
+  {
+    "date": "2016-07-22",
+    "value": 4.26,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2016-07-26",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2016-09-13",
+    "value": 4.42,
+    "beGetProfit": true,
+    "timeGetProfit": 44,
+    "dateGetProfit": "2016-11-23",
+    "maxBottom": 0.9841628959276018
+  },
+  {
+    "date": "2016-09-14",
+    "value": 4.42,
+    "beGetProfit": true,
+    "timeGetProfit": 43,
+    "dateGetProfit": "2016-11-23",
+    "maxBottom": 0.9864253393665159
+  },
+  {
+    "date": "2016-10-13",
+    "value": 4.42,
+    "beGetProfit": true,
+    "timeGetProfit": 29,
+    "dateGetProfit": "2016-11-23",
+    "maxBottom": 0.9864253393665159
+  },
+  {
+    "date": "2016-10-14",
+    "value": 4.41,
+    "beGetProfit": true,
+    "timeGetProfit": 28,
+    "dateGetProfit": "2016-11-23",
+    "maxBottom": 0.9886621315192744
+  },
+  {
+    "date": "2016-10-17",
+    "value": 4.39,
+    "beGetProfit": true,
+    "timeGetProfit": 5,
+    "dateGetProfit": "2016-10-24",
+    "maxBottom": 0.9954441913439637
+  },
+  {
+    "date": "2016-11-03",
+    "value": 4.4,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2016-11-08",
+    "maxBottom": 0.9977272727272726
+  },
+  {
+    "date": "2016-11-04",
+    "value": 4.4,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2016-11-08",
+    "maxBottom": 0.9977272727272726
+  },
+  {
+    "date": "2016-11-07",
+    "value": 4.39,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2016-11-08",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2016-11-18",
+    "value": 4.38,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2016-11-22",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2016-12-02",
+    "value": 4.5,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2016-12-05",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2016-12-16",
+    "value": 4.44,
+    "beGetProfit": true,
+    "timeGetProfit": 19,
+    "dateGetProfit": "2017-01-13",
+    "maxBottom": 0.9797297297297296
+  },
+  {
+    "date": "2016-12-19",
+    "value": 4.41,
+    "beGetProfit": true,
+    "timeGetProfit": 14,
+    "dateGetProfit": "2017-01-09",
+    "maxBottom": 0.9863945578231291
+  },
+  {
+    "date": "2016-12-20",
+    "value": 4.41,
+    "beGetProfit": true,
+    "timeGetProfit": 13,
+    "dateGetProfit": "2017-01-09",
+    "maxBottom": 0.9863945578231291
+  },
+  {
+    "date": "2017-01-16",
+    "value": 4.44,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-01-17",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-02-08",
+    "value": 4.54,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2017-02-10",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-02-28",
+    "value": 4.67,
+    "beGetProfit": true,
+    "timeGetProfit": 7,
+    "dateGetProfit": "2017-03-09",
+    "maxBottom": 0.9914346895074947
+  },
+  {
+    "date": "2017-03-01",
+    "value": 4.67,
+    "beGetProfit": true,
+    "timeGetProfit": 6,
+    "dateGetProfit": "2017-03-09",
+    "maxBottom": 0.9914346895074947
+  },
+  {
+    "date": "2017-03-06",
+    "value": 4.65,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2017-03-08",
+    "maxBottom": 0.9956989247311827
+  },
+  {
+    "date": "2017-03-07",
+    "value": 4.63,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-03-08",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-03-23",
+    "value": 4.65,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2017-03-27",
+    "maxBottom": 0.9956989247311827
+  },
+  {
+    "date": "2017-03-24",
+    "value": 4.65,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-03-27",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-04-12",
+    "value": 4.78,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-04-13",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-04-17",
+    "value": 4.78,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2017-04-21",
+    "maxBottom": 0.9874476987447698
+  },
+  {
+    "date": "2017-04-20",
+    "value": 4.73,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-04-21",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-04-21",
+    "value": 4.72,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-04-24",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-05-04",
+    "value": 4.79,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-05-05",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-05-05",
+    "value": 4.78,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-05-08",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-06-06",
+    "value": 5.1,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-06-07",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-06-14",
+    "value": 5.12,
+    "beGetProfit": true,
+    "timeGetProfit": 6,
+    "dateGetProfit": "2017-06-22",
+    "maxBottom": 0.9726562500000001
+  },
+  {
+    "date": "2017-06-15",
+    "value": 5.12,
+    "beGetProfit": true,
+    "timeGetProfit": 5,
+    "dateGetProfit": "2017-06-22",
+    "maxBottom": 0.9726562500000001
+  },
+  {
+    "date": "2017-06-16",
+    "value": 5.03,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2017-06-22",
+    "maxBottom": 0.9900596421471173
+  },
+  {
+    "date": "2017-06-19",
+    "value": 5.0,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-06-20",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-06-20",
+    "value": 4.99,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-06-21",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-08-09",
+    "value": 5.56,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2017-08-15",
+    "maxBottom": 0.9694244604316546
+  },
+  {
+    "date": "2017-08-10",
+    "value": 5.52,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2017-08-15",
+    "maxBottom": 0.9764492753623188
+  },
+  {
+    "date": "2017-08-11",
+    "value": 5.43,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-08-14",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-08-31",
+    "value": 5.89,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2017-09-05",
+    "maxBottom": 0.9779286926994907
+  },
+  {
+    "date": "2017-09-01",
+    "value": 5.84,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2017-09-05",
+    "maxBottom": 0.9863013698630136
+  },
+  {
+    "date": "2017-09-04",
+    "value": 5.76,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-09-05",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-09-18",
+    "value": 5.75,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2017-09-20",
+    "maxBottom": 0.9860869565217392
+  },
+  {
+    "date": "2017-09-19",
+    "value": 5.73,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-09-20",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-10-26",
+    "value": 6.13,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-10-27",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-10-27",
+    "value": 6.04,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-10-30",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-11-09",
+    "value": 6.0,
+    "beGetProfit": true,
+    "timeGetProfit": 7,
+    "dateGetProfit": "2017-11-20",
+    "maxBottom": 0.9683333333333333
+  },
+  {
+    "date": "2017-11-10",
+    "value": 5.94,
+    "beGetProfit": true,
+    "timeGetProfit": 5,
+    "dateGetProfit": "2017-11-17",
+    "maxBottom": 0.9797979797979798
+  },
+  {
+    "date": "2017-11-27",
+    "value": 5.98,
+    "beGetProfit": true,
+    "timeGetProfit": 6,
+    "dateGetProfit": "2017-12-05",
+    "maxBottom": 0.9765886287625417
+  },
+  {
+    "date": "2017-11-28",
+    "value": 5.92,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-11-29",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2017-11-29",
+    "value": 5.89,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2017-12-05",
+    "maxBottom": 0.9915110356536503
+  },
+  {
+    "date": "2017-11-30",
+    "value": 5.88,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2017-12-05",
+    "maxBottom": 0.9931972789115646
+  },
+  {
+    "date": "2017-12-01",
+    "value": 5.87,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2017-12-05",
+    "maxBottom": 0.9948892674616695
+  },
+  {
+    "date": "2017-12-04",
+    "value": 5.86,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2017-12-05",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-01-05",
+    "value": 6.06,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2018-01-10",
+    "maxBottom": 0.9966996699669968
+  },
+  {
+    "date": "2018-01-08",
+    "value": 6.06,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2018-01-10",
+    "maxBottom": 0.9966996699669968
+  },
+  {
+    "date": "2018-01-09",
+    "value": 6.04,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-01-10",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-02-07",
+    "value": 7.4,
+    "beGetProfit": false,
+    "timeGetProfit": 408,
+    "dateGetProfit": 0,
+    "maxBottom": 0.6824324324324323
+  },
+  {
+    "date": "2018-02-08",
+    "value": 7.0,
+    "beGetProfit": true,
+    "timeGetProfit": 5,
+    "dateGetProfit": "2018-02-22",
+    "maxBottom": 0.9185714285714285
+  },
+  {
+    "date": "2018-02-09",
+    "value": 6.69,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2018-02-13",
+    "maxBottom": 0.9745889387144991
+  },
+  {
+    "date": "2018-02-28",
+    "value": 6.71,
+    "beGetProfit": false,
+    "timeGetProfit": 398,
+    "dateGetProfit": 0,
+    "maxBottom": 0.7526080476900149
+  },
+  {
+    "date": "2018-03-01",
+    "value": 6.63,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-03-02",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-03-02",
+    "value": 6.59,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-03-05",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-03-05",
+    "value": 6.58,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-03-06",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-03-06",
+    "value": 6.53,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-03-07",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-03-15",
+    "value": 6.4,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2018-03-20",
+    "maxBottom": 0.9843749999999999
+  },
+  {
+    "date": "2018-03-16",
+    "value": 6.4,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2018-03-20",
+    "maxBottom": 0.9843749999999999
+  },
+  {
+    "date": "2018-03-19",
+    "value": 6.35,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-03-20",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-03-26",
+    "value": 6.15,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2018-03-29",
+    "maxBottom": 0.959349593495935
+  },
+  {
+    "date": "2018-03-27",
+    "value": 5.95,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-03-28",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-03-28",
+    "value": 5.92,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-03-29",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-04-04",
+    "value": 5.84,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-04-09",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-04-17",
+    "value": 5.78,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-04-18",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-05-07",
+    "value": 5.89,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-05-08",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-05-17",
+    "value": 5.98,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-05-18",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-05-18",
+    "value": 5.94,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-05-21",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-05-24",
+    "value": 5.85,
+    "beGetProfit": true,
+    "timeGetProfit": 185,
+    "dateGetProfit": "2019-02-27",
+    "maxBottom": 0.8632478632478633
+  },
+  {
+    "date": "2018-05-25",
+    "value": 5.76,
+    "beGetProfit": true,
+    "timeGetProfit": 182,
+    "dateGetProfit": "2019-02-25",
+    "maxBottom": 0.8767361111111112
+  },
+  {
+    "date": "2018-05-28",
+    "value": 5.74,
+    "beGetProfit": true,
+    "timeGetProfit": 87,
+    "dateGetProfit": "2018-09-28",
+    "maxBottom": 0.8797909407665505
+  },
+  {
+    "date": "2018-05-29",
+    "value": 5.73,
+    "beGetProfit": true,
+    "timeGetProfit": 86,
+    "dateGetProfit": "2018-09-28",
+    "maxBottom": 0.8813263525305409
+  },
+  {
+    "date": "2018-05-30",
+    "value": 5.62,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-05-31",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-05-31",
+    "value": 5.62,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-06-01",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-06-01",
+    "value": 5.61,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-06-04",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-06-11",
+    "value": 5.57,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2018-06-14",
+    "maxBottom": 0.992818671454219
+  },
+  {
+    "date": "2018-06-27",
+    "value": 5.36,
+    "beGetProfit": true,
+    "timeGetProfit": 8,
+    "dateGetProfit": "2018-07-09",
+    "maxBottom": 0.9421641791044775
+  },
+  {
+    "date": "2018-06-28",
+    "value": 5.28,
+    "beGetProfit": true,
+    "timeGetProfit": 6,
+    "dateGetProfit": "2018-07-06",
+    "maxBottom": 0.9564393939393938
+  },
+  {
+    "date": "2018-07-03",
+    "value": 5.05,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-07-04",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-07-16",
+    "value": 5.34,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2018-07-20",
+    "maxBottom": 0.9625468164794008
+  },
+  {
+    "date": "2018-07-17",
+    "value": 5.21,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-07-18",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-07-20",
+    "value": 5.14,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-07-23",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-08-14",
+    "value": 5.31,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2018-08-20",
+    "maxBottom": 0.9792843691148777
+  },
+  {
+    "date": "2018-08-15",
+    "value": 5.31,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2018-08-20",
+    "maxBottom": 0.9792843691148777
+  },
+  {
+    "date": "2018-08-16",
+    "value": 5.28,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2018-08-20",
+    "maxBottom": 0.9924242424242424
+  },
+  {
+    "date": "2018-08-31",
+    "value": 5.38,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-09-03",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-09-05",
+    "value": 5.36,
+    "beGetProfit": true,
+    "timeGetProfit": 10,
+    "dateGetProfit": "2018-09-19",
+    "maxBottom": 0.9850746268656716
+  },
+  {
+    "date": "2018-09-06",
+    "value": 5.35,
+    "beGetProfit": true,
+    "timeGetProfit": 9,
+    "dateGetProfit": "2018-09-19",
+    "maxBottom": 0.9869158878504674
+  },
+  {
+    "date": "2018-10-09",
+    "value": 5.52,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-10-10",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-10-18",
+    "value": 5.38,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-10-19",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-10-19",
+    "value": 5.35,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-10-22",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-11-05",
+    "value": 5.54,
+    "beGetProfit": true,
+    "timeGetProfit": 58,
+    "dateGetProfit": "2019-01-28",
+    "maxBottom": 0.9205776173285198
+  },
+  {
+    "date": "2018-11-06",
+    "value": 5.54,
+    "beGetProfit": true,
+    "timeGetProfit": 57,
+    "dateGetProfit": "2019-01-28",
+    "maxBottom": 0.9205776173285198
+  },
+  {
+    "date": "2018-11-07",
+    "value": 5.5,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-11-08",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-11-12",
+    "value": 5.3,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-11-13",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-11-13",
+    "value": 5.3,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-11-14",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-11-14",
+    "value": 5.3,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2018-11-16",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-11-15",
+    "value": 5.3,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-11-16",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-11-28",
+    "value": 5.32,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-11-29",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-11-29",
+    "value": 5.32,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2018-12-03",
+    "maxBottom": 0.9981203007518795
+  },
+  {
+    "date": "2018-11-30",
+    "value": 5.32,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2018-12-03",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-12-07",
+    "value": 5.33,
+    "beGetProfit": true,
+    "timeGetProfit": 4,
+    "dateGetProfit": "2018-12-13",
+    "maxBottom": 0.99624765478424
+  },
+  {
+    "date": "2018-12-10",
+    "value": 5.33,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2018-12-13",
+    "maxBottom": 0.99624765478424
+  },
+  {
+    "date": "2018-12-11",
+    "value": 5.31,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2018-12-13",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2018-12-20",
+    "value": 5.32,
+    "beGetProfit": true,
+    "timeGetProfit": 19,
+    "dateGetProfit": "2019-01-18",
+    "maxBottom": 0.9586466165413533
+  },
+  {
+    "date": "2018-12-21",
+    "value": 5.2,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2018-12-25",
+    "maxBottom": 0.9846153846153846
+  },
+  {
+    "date": "2019-01-03",
+    "value": 5.17,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2019-01-04",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2019-01-04",
+    "value": 5.17,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2019-01-07",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2019-03-11",
+    "value": 5.58,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2019-03-12",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2019-03-14",
+    "value": 5.54,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2019-03-15",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2019-03-25",
+    "value": 5.55,
+    "beGetProfit": true,
+    "timeGetProfit": 5,
+    "dateGetProfit": "2019-04-01",
+    "maxBottom": 0.9783783783783784
+  },
+  {
+    "date": "2019-03-26",
+    "value": 5.46,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2019-03-27",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2019-04-23",
+    "value": 5.81,
+    "beGetProfit": true,
+    "timeGetProfit": 38,
+    "dateGetProfit": "2019-06-20",
+    "maxBottom": 0.9466437177280551
+  },
+  {
+    "date": "2019-04-24",
+    "value": 5.79,
+    "beGetProfit": true,
+    "timeGetProfit": 37,
+    "dateGetProfit": "2019-06-20",
+    "maxBottom": 0.9499136442141624
+  },
+  {
+    "date": "2019-04-25",
+    "value": 5.74,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2019-04-29",
+    "maxBottom": 0.9930313588850174
+  },
+  {
+    "date": "2019-04-26",
+    "value": 5.71,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2019-04-29",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2019-05-10",
+    "value": 5.5,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2019-05-13",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2019-05-29",
+    "value": 5.62,
+    "beGetProfit": true,
+    "timeGetProfit": 3,
+    "dateGetProfit": "2019-06-03",
+    "maxBottom": 0.9964412811387899
+  },
+  {
+    "date": "2019-05-30",
+    "value": 5.62,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2019-06-03",
+    "maxBottom": 0.9964412811387899
+  },
+  {
+    "date": "2019-05-31",
+    "value": 5.62,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2019-06-03",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2019-07-30",
+    "value": 5.64,
+    "beGetProfit": true,
+    "timeGetProfit": 48,
+    "dateGetProfit": "2019-10-14",
+    "maxBottom": 0.9503546099290782
+  },
+  {
+    "date": "2019-07-31",
+    "value": 5.64,
+    "beGetProfit": true,
+    "timeGetProfit": 47,
+    "dateGetProfit": "2019-10-14",
+    "maxBottom": 0.9503546099290782
+  },
+  {
+    "date": "2019-08-01",
+    "value": 5.62,
+    "beGetProfit": true,
+    "timeGetProfit": 46,
+    "dateGetProfit": "2019-10-14",
+    "maxBottom": 0.9537366548042705
+  },
+  {
+    "date": "2019-08-05",
+    "value": 5.5,
+    "beGetProfit": true,
+    "timeGetProfit": 7,
+    "dateGetProfit": "2019-08-14",
+    "maxBottom": 0.9781818181818182
+  },
+  {
+    "date": "2019-08-07",
+    "value": 5.4,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2019-08-09",
+    "maxBottom": 0.998148148148148
+  },
+  {
+    "date": "2019-08-23",
+    "value": 5.38,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2019-08-27",
+    "maxBottom": 0.996282527881041
+  },
+  {
+    "date": "2019-08-26",
+    "value": 5.38,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2019-08-27",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2019-09-02",
+    "value": 5.38,
+    "beGetProfit": true,
+    "timeGetProfit": 2,
+    "dateGetProfit": "2019-09-04",
+    "maxBottom": 0.9981412639405205
+  },
+  {
+    "date": "2019-09-03",
+    "value": 5.38,
+    "beGetProfit": true,
+    "timeGetProfit": 1,
+    "dateGetProfit": "2019-09-04",
+    "maxBottom": 1.0
+  },
+  {
+    "date": "2019-09-18",
+    "value": 5.49,
+    "beGetProfit": true,
+    "timeGetProfit": 6,
+    "dateGetProfit": "2019-09-26",
+    "maxBottom": 0.9927140255009107
+  },
+  {
+    "date": "2019-09-19",
+    "value": 5.49,
+    "beGetProfit": true,
+    "timeGetProfit": 5,
+    "dateGetProfit": "2019-09-26",
+    "maxBottom": 0.9927140255009107
+  }
+]

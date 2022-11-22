@@ -1,0 +1,60 @@
+<div class="flex space-between middle">
+  <a href="javascript:;" (click)="active = 'egg-information'"
+     [ngStyle]="{'font-weight': active === 'egg-information'? 800 : 400 }">Egg Information</a>
+  <a href="javascript:;" (click)="active = 'egg-bottom-strategy'"
+     [ngStyle]="{'font-weight': active === 'egg-bottom-strategy'? 800 : 400 }">Egg Bottom Strategy</a>
+  <a href="javascript:;" (click)="active = 'egg-box-strategy'"
+     [ngStyle]="{'font-weight': active === 'egg-box-strategy'? 800 : 400 }">Egg Box Strategy</a>
+</div>
+<div  [ngStyle]="{'display': active === 'egg-information'? 'block' : 'none'}">
+  <div *ngFor="let year of years; index as i;">
+    <div class="flex start middle">
+      <div *ngFor="let contract of contractsByYear[year].contracts; index as j;"
+           class="checkbox-group">
+        <input type="checkbox"
+               [checked]="contracts[contract].checked"
+               (change)="checkContract(contract)" />
+        <label>{{contract}}</label>
+      </div>
+    </div>
+  </div>
+  <div class="checkbox-group">
+    <input type="checkbox"
+           [checked]="contractsByYear['JD9999']?.checked"
+           (change)="checkContract('JD9999')" />
+    <label>JD9999</label>
+  </div>
+  <div class="flex space-between middle">
+    <div>BY YEAR: </div>
+    <div *ngFor="let year of years; index as i;">
+      <div class="checkbox-group">
+        <input type="checkbox"
+               [checked]="contractsByYear[year].checked"
+               (change)="checkYear(year)" />
+        <label>{{year}}</label>
+      </div>
+    </div>
+  </div>
+  <div class="flex space-between middle">
+    <div>BY MONTH: </div>
+    <div *ngFor="let month of months; index as i;">
+      <div class="checkbox-group">
+        <input type="checkbox"
+               [checked]="contractsByMonth[month].checked"
+               (change)="checkMonth(month)" />
+        <label>{{month}}月</label>
+      </div>
+    </div>
+  </div>
+  <div class="flex end middle">
+    <a href="javascript:;" routerLink="/egg-strategy">详细页</a>
+  </div>
+  <div id="chartInformation"></div>
+</div>
+<!--egg-information-component end-->
+<egg-bottom-strategy-component *ngIf="dataUpdate"
+                               [ngStyle]="{'display': active === 'egg-bottom-strategy' ? 'block' : 'none'}"
+                               [data]="data"></egg-bottom-strategy-component>
+<egg-box-strategy-component *ngIf="dataUpdate"
+                            [ngStyle]="{'display': active === 'egg-box-strategy' ? 'block' : 'none'}"
+                            [data]="data"></egg-box-strategy-component>

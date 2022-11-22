@@ -1,0 +1,96 @@
+<div class="flex start middle">
+  <div>Table: </div>
+  <div>{{tables}}</div>
+</div>
+<div class="flex start middle">
+  <div>Strategy: </div>
+  <select (change)="optionStrategyChange($event)"
+          [(value)]="strategy">
+    <option *ngFor="let item of strategies;let i = index"
+            [value]="i">
+      {{item}}
+    </option>
+  </select>
+</div>
+<div class="flex start middle">
+  <div>Rate of Profit: </div>
+  <select (change)="optionRateProfitChange($event)"
+          [(value)]="rateProfit">
+    <option *ngFor="let item of rates;let i = index"
+            [value]="i">
+      {{item}}
+    </option>
+  </select>
+</div>
+<div class="flex start middle">
+  <div>Rate of Max Loss: </div>
+  <select (change)="optionRateMaxLossChange($event)"
+          [(value)]="rateMaxLoss">
+    <option *ngFor="let item of ratesMaxLoss;let i = index"
+            [value]="i">
+      {{item}}
+    </option>
+  </select>
+</div>
+<div class="flex space-between">
+  <div>Total profit:{{totalProfit}}</div>
+  <div>Year profit:{{yearProfit}}</div>
+  <div>not get profit:{{notProfit.length}}</div>
+  <div>rate of getting profit:{{ rateOfGettingProfit }}</div>
+</div>
+<div class="flex middle center">
+  {{timeSeleted}}
+</div>
+<div id="chartBox"></div>
+<div class="flex top space-between">
+  <div>
+    <div>{{notProfit.length}}</div>
+    <table>
+      <thead>
+        <tr>
+          <th>date</th>
+          <th>value</th>
+          <th>beGetProfit</th>
+          <th>timeGetProfit</th>
+          <th>dateGetProfit</th>
+          <th>maxBottom</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of notProfit; let i = index">
+          <td>{{item['date']}}</td>
+          <td>{{item['value']}}</td>
+          <td>{{item['beGetProfit']}}</td>
+          <td>{{item['timeGetProfit']}}</td>
+          <td>{{item['dateGetProfit']}}</td>
+          <td>{{item['maxBottom']}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div>
+    <div>{{beProfit.length}}</div>
+    <table>
+      <thead>
+        <tr>
+          <th>date</th>
+          <th>value</th>
+          <th>beGetProfit</th>
+          <th>timeGetProfit</th>
+          <th>dateGetProfit</th>
+          <th>maxBottom</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of beProfit; let i = index">
+          <td>{{item['date']}}</td>
+          <td>{{item['value']}}</td>
+          <td>{{item['beGetProfit']}}</td>
+          <td>{{item['timeGetProfit']}}</td>
+          <td>{{item['dateGetProfit']}}</td>
+          <td>{{item['maxBottom']}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
